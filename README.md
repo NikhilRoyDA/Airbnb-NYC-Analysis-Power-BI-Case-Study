@@ -132,10 +132,8 @@ Here’s what I built using Power BI:
 
 ## 📸 Insights
 
-![Room Type Distribution](dashboard_screenshots/room_type_distribution.png)
-![Neighborhood Price Map](dashboard_screenshots/neighborhood_map.png)
+![Clik here to see dashboard](https://github.com/NikhilRoyDA/Airbnb-NYC-Analysis-Power-BI-Case-Study/blob/main/Airbnb%20Insights.pdf)
 
-> *(Add your own screenshots in this section by placing images in a `dashboard_screenshots/` folder and linking to them like above.)*
 
 ---
 
@@ -150,7 +148,7 @@ A huge thanks to **Akash Raj** and the **CloudyML** team for mentorship and feed
 Let’s connect and chat about data!  
 📧 Email: nikhilroy744@gmail.com  
 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nikhil-kumar-roy/)  
-🌐 Portfolio: [Check all Project here](https://www.datascienceportfol.io/nikhilroy744)
+🌐 Portfolio: [Check all Data Analyst Project here](https://www.datascienceportfol.io/nikhilroy744)
 
 ---
 
