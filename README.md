@@ -17,6 +17,7 @@ To analyze over **48,000 Airbnb listings** across NYC and extract meaningful bus
 - **Hosts** understand demand patterns across neighborhoods  
 - **Business stakeholders** identify growth opportunities
 
+
 ---
 
 ## 📁 Dataset Source
@@ -96,6 +97,17 @@ Here’s what I built using Power BI:
 
 ---
 
+## 🧠 What You’ll Learn From This Project
+
+| Insight | Why It Matters |
+|--------|----------------|
+| 📍 **Manhattan has the most listings** | High tourist traffic, potential for premium pricing |
+| 💼 **Some hosts manage hundreds of properties** | Reveals the business side of Airbnb—these aren’t just casual hosts |
+| 🏡 **Entire apartments are most preferred** | Even at a higher price, comfort and privacy win |
+| 🌆 **Review hotspots show where demand is high** | Great for understanding travel patterns and local economies |
+
+---
+
 ## 🛠️ Tools & Techniques
 
 | Skill | Description |
@@ -104,7 +116,6 @@ Here’s what I built using Power BI:
 | **Power Query Editor** | Cleaned missing values, fixed data types |
 | **DAX** | Calculated average price, count of listings, filter conditions |
 | **Data Storytelling** | Wove insights into visual, business-ready format |
-| **Geo Visualization** | Used map visuals to show listings by location |
 
 ---
 
@@ -119,7 +130,7 @@ Here’s what I built using Power BI:
 
 ---
 
-## 📸 Screenshots
+## 📸 Insights
 
 ![Room Type Distribution](dashboard_screenshots/room_type_distribution.png)
 ![Neighborhood Price Map](dashboard_screenshots/neighborhood_map.png)
@@ -138,8 +149,8 @@ A huge thanks to **Akash Raj** and the **CloudyML** team for mentorship and feed
 
 Let’s connect and chat about data!  
 📧 Email: nikhilroy744@gmail.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhil-kumar-roy/)  
-🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://www.datascienceportfol.io/nikhilroy744))
+💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nikhil-kumar-roy/)  
+🌐 Portfolio: [Check all Project here](https://www.datascienceportfol.io/nikhilroy744)
 
 ---
 
