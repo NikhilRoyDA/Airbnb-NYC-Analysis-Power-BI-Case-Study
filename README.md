@@ -4,7 +4,12 @@
 
 Welcome to my full-scale data analysis case study using **Power BI**, where I dove into the world of Airbnb listings in **New York City** using real open data from **2019**.
 
-This project is part of my learning journey with **CloudyML**, where I had the guidance and support of **Akash Raj** and the team. I'm proud to share this as a portfolio piece that combines **data storytelling**, **visual analytics**, and **real-world business impact**.
+Have you ever booked a place on Airbnb and wondered what affects the pricing? Why some listings get tons of reviews while others stay unnoticed? Or which areas are the most popular for tourists in a city like New York?
+
+That's exactly what I wanted to find out.  
+Using the **Airbnb Open Data for New York City (2019)**, I built a fully interactive **Power BI dashboard** to dive deep into 48,000+ listings and uncover patterns that affect **pricing, popularity, room type preferences**, and more.
+
+This is more than just a data project—it’s a guided tour through the boroughs of NYC, told through numbers.
 
 ---
 
