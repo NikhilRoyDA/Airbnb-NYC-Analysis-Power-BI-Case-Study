@@ -157,10 +157,12 @@ Let’s connect and chat about data!
 
 ---
 
-## 🏷️ Keywords & Tags
-
 `Power BI` `Data Analytics` `Airbnb Analysis` `NYC Data` `Portfolio Project` `Storytelling with Data` `DAX` `Power Query` `CloudyML` `Business Intelligence` `Real-World Data`
 
 ---
+#DataAnalytics #PowerBI #Dax #AirbnbAnalysis #NYCData #BusinessInsights #StorytellingWithData #DataAnalysis
+
+### 🌟 If you find this project interesting, give it a ⭐ and let me know your thoughts!  
+
 
 
